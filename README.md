@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Hasitha Gayan 👋
 
-<!--
-**HasithaGayan/HasithaGayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT undergraduate at SLIIT, currently developing my software engineering skills.
 
-Here are some ideas to get you started:
+## 🎯 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Software & Full-Stack Development
+* Building practical projects through coursework
+* Learning Applied AI
+
+## 🛠️ Core Tools
+
+* Java
+* SQL
+* Python
+
+## 🚀 Project Proof
+
+I'm currently preparing selected projects to publish safely on GitHub. Project links will be added here as they become public.
+
+## 🔗 Connect
+
+* [LinkedIn](https://www.linkedin.com/in/hasithagayan/)
+
